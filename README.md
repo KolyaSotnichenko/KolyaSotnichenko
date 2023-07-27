@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolyasotnichenko" alt="kolyasotnichenko" /></a> </p>
 
-- 🔭 I’m currently working on [DudePlex2.0](https://github.com/KolyaSotnichenko/DudePlex2.0)
+- 🔭 I’m currently working on [IntelliHire]((https://intellihire-beta.vercel.app/))
 
 - 👨‍💻 All of my projects are available at [https://sotnichenko.vercel.app/](https://sotnichenko.vercel.app/)
 
