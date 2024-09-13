@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IntelliHire]((https://intellihire-beta.vercel.app/))
 
-- 👨‍💻 All of my projects are available at [https://sotnichenko.vercel.app/](https://sotnichenko.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://3dportfolio-psi.vercel.app/](https://3dportfolio-psi.vercel.app/)
 
 - 💬 Ask me about **react, react-native, nextjs, firebase**
 
