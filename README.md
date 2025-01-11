@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://3dportfolio-psi.vercel.app/](https://3dportfolio-psi.vercel.app/)
 
-- 💬 Ask me about **react, react-native, nextjs, firebase**
+- 💬 Ask me about **react, react-native, nextjs, nest js**
 
 - 📫 How to reach me **kolya.sotnichenko0811@gmail.com**
 
