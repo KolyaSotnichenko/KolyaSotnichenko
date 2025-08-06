@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mykola Sotnichenko</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A passionate Full-Stack developer from Ukraine</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolyasotnichenko" alt="kolyasotnichenko" /></a> </p>
 
-- 🔭 I’m currently working on [IntelliHire]((https://intellihire-beta.vercel.app/))
-
-- 👨‍💻 All of my projects are available at [https://3dportfolio-psi.vercel.app/](https://3dportfolio-psi.vercel.app/)
+- 🔭 I’m currently working on [Authfy Cloud]([(https://intellihire-beta.vercel.app/)](https://authfy.cloud/))
 
 - 💬 Ask me about **react, react-native, nextjs, nest js**
 
