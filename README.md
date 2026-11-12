@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kolya-sotnichenko/"><img src="https://img.shields.io/badge/LinkedIn-kolya--sotnichenko-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kolya.sotnichenko0811@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://metergateway.com"><img src="https://img.shields.io/badge/Meter-metergateway.com-111111" alt="Meter"/></a>
 </p>
 
 ---
@@ -22,7 +21,7 @@ I build production LLM systems end to end: document ingestion and retrieval, age
 
 | Project | What it is |
 |---|---|
-| **[Meter](https://metergateway.com)** | Cost and governance layer for AI coding agents used by dev teams. Founder; launched Oct 2026. |
+| **Meter** | Side project: cost and governance layer for AI coding agents used by dev teams. |
 | **Vibe Teamlead 2.0** | Multi-agent desktop app (macOS): give it a spec and watch agents plan, architect, build and test software on top of the Claude Agent SDK. |
 
 ### Stack
