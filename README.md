@@ -1,25 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mykola Sotnichenko</h1>
-<h3 align="center">A passionate Full-Stack developer from Ukraine</h3>
+<h1 align="center">Mykola Sotnichenko</h1>
+<h3 align="center">Full-Stack AI Engineer · LLM agents · RAG · MCP · TypeScript · Azure</h3>
+<p align="center">Kyiv, Ukraine · open to Senior AI Engineer / Full-Stack AI roles (remote or hybrid)</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolyasotnichenko" alt="kolyasotnichenko" /></a> </p>
-
-- 🔭 I’m currently working on [Authfy Cloud]([(https://intellihire-beta.vercel.app/)](https://authfy.cloud/))
-
-- 💬 Ask me about **react, react-native, nextjs, nest js**
-
-- 📫 How to reach me **kolya.sotnichenko0811@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JoBEG6gwPzRfu0Ud5f9TZGqyk52_8Mk8/view?usp=sharing](https://drive.google.com/file/d/1JoBEG6gwPzRfu0Ud5f9TZGqyk52_8Mk8/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kolyasotnichenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kolyasotnichenko" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kolya-sotnichenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kolya-sotnichenko/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kolya-sotnichenko/"><img src="https://img.shields.io/badge/LinkedIn-kolya--sotnichenko-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kolya.sotnichenko0811@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://metergateway.com"><img src="https://img.shields.io/badge/Meter-metergateway.com-111111" alt="Meter"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolyasotnichenko&show_icons=true&locale=en&layout=compact" alt="kolyasotnichenko" /></p>
+### About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kolyasotnichenko&" alt="kolyasotnichenko" /></p>
+I build production LLM systems end to end: document ingestion and retrieval, agent orchestration, typed tool integration over MCP, secure APIs, and Kubernetes deployment.
+
+- **4+ years** of commercial full-stack development, **2+ years** shipping LLM systems to production.
+- At **MHP** I build the internal **enterprise AI assistant platform**: RAG over business documents, LangGraph agents, MCP servers, and automation used by non-technical teams.
+- I work **spec-driven and test-driven** (SDD + TDD), including with coding agents such as Claude Code.
+
+### What I'm building
+
+| Project | What it is |
+|---|---|
+| **[Meter](https://metergateway.com)** | Cost and governance layer for AI coding agents used by dev teams. Founder; launched Oct 2026. |
+| **Vibe Teamlead 2.0** | Multi-agent desktop app (macOS): give it a spec and watch agents plan, architect, build and test software on top of the Claude Agent SDK. |
+
+### Stack
+
+**AI / LLM:** LangChain · LangGraph · Azure OpenAI · Azure AI Search · Claude Agent SDK · MCP · Qdrant · vLLM · Ollama · RAG · AI agents · structured outputs · OWASP LLM Top 10  
+**Backend:** TypeScript · Node.js · NestJS · Go · Python · PostgreSQL · MongoDB · Prisma · TypeORM · REST  
+**Frontend:** React · Next.js · React Query · Zustand · Tailwind CSS  
+**Cloud / DevOps:** Azure · AKS / Kubernetes · Docker · Azure DevOps CI/CD · n8n
+
+### Certifications
+
+Claude Code in Action (Anthropic) · Building Ambient Agents with LangGraph (LangChain Academy) · AI Fluency: Framework & Foundations (Anthropic) · Microsoft Learn badges in Azure AI Search
+
+---
+
+<p align="center"><i>Open to conversations about AI engineering roles, agentic systems and developer tooling. The fastest way to reach me is LinkedIn or email.</i></p>
